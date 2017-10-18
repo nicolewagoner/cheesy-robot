@@ -1,0 +1,10 @@
+.robo-caption {
+  font-family: fantasy;
+  font-size: 30px;
+  color: #3da7b4;
+  opacity: 0;
+}
+canvas {
+  position: absolute;
+  left: 201px;
+}
